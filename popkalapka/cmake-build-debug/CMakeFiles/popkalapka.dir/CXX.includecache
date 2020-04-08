@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/s/Desktop/popkalapka/Figure.cpp
+Figure.h
+/Users/s/Desktop/popkalapka/Figure.h
+
+/Users/s/Desktop/popkalapka/Figure.h
+iostream
+-
+cmath
+-
+
